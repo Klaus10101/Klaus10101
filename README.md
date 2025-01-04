@@ -1,5 +1,6 @@
 # 🃏 oF All Trades
 
-computerphile with expertise in multiple programming languages including :-
------------------------------- -:
-Python,ruby,C,C++,D,Java,Shell Scripting,Fortran
+Python,ruby,lua,ASM(arm64)C,C++,D,Java,ShellScripting,fortran,Html,javascript.
+
+# :--------------------:
+
